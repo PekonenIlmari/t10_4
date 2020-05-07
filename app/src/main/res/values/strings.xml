@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">t10_4</string>
+    <string name="info">osoite ilman http:// alkua</string>
+    <string name="webButton">Siirry</string>
+    <string name="refresh">Sivun päivitys</string>
+    <string name="back">Edellinen</string>
+    <string name="forward">Seuraava</string>
+</resources>

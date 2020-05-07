@@ -1,0 +1,2 @@
+rootProject.name='t10_4'
+include ':app'
